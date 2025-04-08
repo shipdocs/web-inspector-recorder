@@ -45,7 +45,7 @@ The tool will create a Playwright test script that includes:
 
 ```bash
 # Record interactions with burando.online
-./index.js https://burando.online
+./index.js https://example.com
 ```
 
 Generated test script will be printed to the console and can be saved to a .spec.js file.
